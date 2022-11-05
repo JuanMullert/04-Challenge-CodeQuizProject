@@ -50,3 +50,13 @@ const questionsArr = [
         answer: "d"
     }
 ];
+
+var header = document.querySelector(".header");
+var opening = document.querySelector(".opening");
+var container = document.querySelector(".container");
+var divider = document.querySelector(".divider");
+var result = document.querySelector(".result");
+var scores = [];
+var mark = 0;
+var index = 0;
+var record = [];
